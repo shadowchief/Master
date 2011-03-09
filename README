@@ -1,1 +1,13 @@
-Master is a parent program that handles many sub-functions and sub-programs to centralize work tasks, references, projects, and anything else that can possibly be added into this structural program.
+Master is a parent program that handles many sub-functions and sub-programs to centralize:
+    - work tasks
+    - references
+    - projects
+    - anything else that can possibly be added
+Benefits:
+    This structural program will enable improvement of:
+        - navigation between and within tasks (mainly maximo tickets)
+        - file and folder navigation
+        - task/project/documentation organization
+        - task/project/documentation tracking & optimization of time
+        - task direction & process documentation, links, and automation
+    These improvements can build little by little upon this structure so it's important to be a solid, smooth Master program
